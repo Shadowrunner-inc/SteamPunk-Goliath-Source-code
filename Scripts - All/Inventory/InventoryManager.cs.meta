@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4207a55d59cc823478851af3464f135f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HeallingCloudPrefab: {fileID: 1347796368892958, guid: df56abef3edbaef4fa0ab0412f1fada9,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
