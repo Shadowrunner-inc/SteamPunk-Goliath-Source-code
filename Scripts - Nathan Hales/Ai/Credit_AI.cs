@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 /// <summary>
 /// Author: Nathan Hales
-/// This is scritp gets placed on each credit object and acts as its brain. Adds self culling and movement fuctionality.
+/// This is script gets placed on each credit object and acts as its brain. Adds self culling and movement fuctionality.
 /// when the objecte rises to the threshold(Y axis point) it destorys its self.
 /// </summary>
 public class Credit_AI : MonoBehaviour
